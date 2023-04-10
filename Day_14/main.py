@@ -4,6 +4,7 @@ from game_data import data
 from os import system
 from random import randint
 
+
 def game(next, score):
 	first = randint(0, len(data))
 
